@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-27 00:28:04",
+  "save_dir": ".",
+  "utf8_console": true,
+  "overwrite": true,
+  "items": [
+    {
+      "target": ".git-command/git-pull",
+      "shortcut_name": "git-pull",
+      "run_mode": "auto",
+      "icon": ".git-command/.icons/github.png"
+    },
+    {
+      "target": ".git-command/git-discard/git-discard.bat",
+      "shortcut_name": "git-discard",
+      "run_mode": "auto",
+      "icon": ".git-command/.icons/github.png"
+    },
+    {
+      "target": ".git-command/git-push/git-push.bat",
+      "shortcut_name": "git-push",
+      "run_mode": "auto",
+      "icon": ".git-command/.icons/github.png"
+    }
+  ]
+}
